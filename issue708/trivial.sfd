@@ -1,0 +1,155 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2014, Ben Martin
+UComments: "2014-4-16: Created with FontForge (http://fontforge.org)" 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 234 445944451 4733000]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1397645948
+ModificationTime: 1397646346
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0"  {"'mark' Mark Positioning in Latin lookup 0-1"  } ['mark' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 48 12 8
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "bottom"  "'mark' Mark Positioning in Latin lookup 0-1" "top"  "'mark' Mark Positioning in Latin lookup 0-1" 
+BeginChars: 256 4
+
+StartChar: a
+Encoding: 97 97 0
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+598 390 m 28
+ 635 366 657 310 624 280 c 24
+ 553 216 487 196 392 202 c 24
+ 341 205 295 250 304 300 c 24
+ 316 363 369 387 430 406 c 24
+ 493 425 543 426 598 390 c 28
+706 504 m 24
+ 580 457 487 540 362 492 c 24
+ 260 453 163 403 164 294 c 24
+ 165 188 263 141 364 110 c 24
+ 493 71 578 97 710 128 c 24
+ 735 134 692 197 718 194 c 24
+ 764 189 766 134 810 118 c 24
+ 862 98 944 51 952 106 c 24
+ 981 314 991 460 884 640 c 24
+ 814 759 694 764 556 772 c 24
+ 415 780 331 745 206 680 c 24
+ 174 663 164 586 200 588 c 24
+ 346 595 412 684 558 696 c 24
+ 635 702 699 695 746 634 c 24
+ 778 592 756 522 706 504 c 24
+EndSplineSet
+EndChar
+
+StartChar: b
+Encoding: 98 98 1
+Width: 1000
+VWidth: 0
+Flags: HW
+AnchorPoint: "top" 708 702 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+622 432 m 24
+ 541 415 469 345 492 266 c 24
+ 515 190 610 192 688 208 c 24
+ 756 222 834 268 814 334 c 24
+ 790 415 704 449 622 432 c 24
+230 752 m 24
+ 175 497 154 345 184 86 c 24
+ 190 38 266 74 306 102 c 24
+ 332 120 291 187 322 182 c 24
+ 448 160 496 23 622 48 c 24
+ 763 76 907 151 896 294 c 24
+ 884 449 736 509 584 542 c 24
+ 473 566 413 353 320 418 c 24
+ 222 487 353 610 322 726 c 24
+ 312 762 238 788 230 752 c 24
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 2
+Width: 1000
+VWidth: 0
+Flags: HO
+AnchorPoint: "top" 542 486 mark 0
+LayerCount: 2
+Fore
+SplineSet
+146 436 m 28
+ 212 523 243 624 352 626 c 24
+ 492 628 523 464 662 444 c 24
+ 757 430 792 530 886 548 c 24
+ 910 553 900 502 882 486 c 24
+ 815 428 772 362 684 374 c 24
+ 536 393 497 554 348 556 c 24
+ 249 557 251 431 166 380 c 24
+ 146 368 132 418 146 436 c 28
+EndSplineSet
+EndChar
+
+StartChar: one
+Encoding: 49 49 3
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+316 612 m 24
+ 333 680 360 718 416 760 c 24
+ 449 784 512.748476677 803.955167494 520 764 c 0
+ 562.821786773 528.056242167 578.315138226 333.873951391 528 150 c 0
+ 506.712609307 72.2063820259 666 193 736 152 c 24
+ 776 128 776 41 730 32 c 24
+ 519 -8 391 10 180 46 c 24
+ 146 52 123 120 156 130 c 24
+ 269 166 454.190101254 17.1419120272 460 136 c 0
+ 478.982644251 524.344254998 463.027125205 463.333587814 430 644 c 0
+ 424.145252451 676.026893873 403 593 372 584 c 24
+ 348 577 310 588 316 612 c 24
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
